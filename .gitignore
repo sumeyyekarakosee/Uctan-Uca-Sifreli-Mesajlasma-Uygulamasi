@@ -1,0 +1,28 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# Log dosyaları
+server.log
+*.log
+
+# Gizli/veri dosyaları
+keys/
+received_files/
+chat_history/
+
+# PyCharm ayarları
+.idea/
+
+# Sanal ortam klasörleri
+venv/
+.venv/
+env/
+
+# Mac sistem dosyaları
+.DS_Store
+
+# Windows sistem dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
