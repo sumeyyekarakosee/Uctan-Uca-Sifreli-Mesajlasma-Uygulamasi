@@ -1,0 +1,18 @@
+{
+  "sümeyye": {
+    "salt": "31c0499286db0811a80b1a47b78cce8f62852c876132756aaf19a363caea4e79",
+    "password_hash": "789b273f5ee8165bf8c771372b418fa3185a32d0f60c8dff08f2093f8cab6305"
+  },
+  "gökhan": {
+    "salt": "5b15a88522b71415b0abdb96efe8f9d40e9944c2296cf34bfe8a46beca3fe6db",
+    "password_hash": "f99fbe23cde71f9f07bc7820218f8df731f7ccb9f1a226f023ba35a8f4b29678"
+  },
+  "test": {
+    "salt": "170aae155c5bfe87f5ee244304aa09219f2e9500b6816cf1a5a4d75c037e7ecb",
+    "password_hash": "0a29e1d3f1cc3f3e967601709116e1545be2ed9e69a67e3ffe615987b7568562"
+  },
+  "test2": {
+    "salt": "e6e9e46bb2a3a0b4c3485138e7485d4b21a67f5424302cb47a18cde26197b0d0",
+    "password_hash": "ce05b58f65a36aac14efab4313b2e60d3324ba795c5daddbd001a765963211e3"
+  }
+}
